@@ -1,2 +1,2 @@
-# p1-ds
-Práctica 1 de Diseño Software
+# p3-ds
+Práctica 3 de Diseño Software
